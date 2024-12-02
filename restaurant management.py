@@ -53,13 +53,13 @@ if second == "yes":
              order+=menu[item_4]
             print(f"your item {item_4 } has been placed")
             print( )
-            print(f"your total amount is { order}\n\npay now other woise ready to wash plates {name}😤")
+            print(f"your total amount is { order}\n\npay now otherwise ready to wash plates {name}😤")
          else:
           print( )
-          print(f"your total amount is { order}\n\npay now other woise ready to wash plates {name}😤")
+          print(f"your total amount is { order}\n\npay now otherwise ready to wash plates {name}😤")
        else:
         print ( )
-        print(f"your total amount is { order}\n\npay now other woise ready to wash plates {name}😤")
+        print(f"your total amount is { order}\n\npay now otherwise ready to wash plates {name}😤")
 else:
  print( )
- print(f"your total amount is { order}\n\npay now other woise ready to wash plates {name}😤")
+ print(f"your total amount is { order}\n\npay now otherwise ready to wash plates {name}😤")
